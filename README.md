@@ -1,67 +1,94 @@
 # From Data to Value – Dashboard Demo
 
-A KVKK-safe analytics dashboard demo that shows how platform data and user reviews can be transformed into business value through ratings and sentiment analysis.
+This repository demonstrates how company feedback and reviews can be transformed into **actionable business insights** using data analytics and visualization.
+
+The project is designed as a **privacy-safe demo** and runs entirely on **synthetic (dummy) data**.  
+No real company, employee, or user data is used.
 
 ![Dashboard Screenshot](assets/dashboard.png)
 
 ---
+## 🎯 Project Purpose
 
-## 🎯 Purpose of This Project
+The goal of this project is to showcase:
 
-This project demonstrates how **qualitative user feedback** (reviews, ratings, sentiment)
-can be converted into **actionable, company-level insights** through a simple analytics pipeline
-and an interactive dashboard.
+- How qualitative feedback (reviews) can be structured and analyzed
+- How sentiment analysis supports decision-making
+- How dashboards help companies and stakeholders move from **raw data → insights → value**
 
-The main goal is to showcase:
-- Data → Insight → Value thinking
-- Product-oriented analytics mindset
-- KVKK-compliant demo practices using synthetic data
+This demo reflects real-world use cases inspired by platforms such as:
+**Glassdoor, LinkedIn, and company feedback systems**, while remaining fully privacy-safe.
 
 ---
 
-## 📊 What This Dashboard Shows
+## 🧩 Key Features
 
-- **Key Metrics**
-  - Number of reviews
+- 📊 **Interactive Dashboard (Streamlit)**
+- ⭐ **Company × Category Average Rating Heatmap**
+- 😊😐😞 **Sentiment Distribution Analysis**
+- 📈 KPI Cards:
+  - Total reviews
   - Average rating
-  - Positive / Negative sentiment ratios
-
-- **Company × Category Heatmap**
-  - Average ratings across different experience categories
-  - Quick identification of strengths and risk areas
-
-- **Sentiment Distribution**
-  - Positive / Neutral / Negative breakdown
-  - High-level emotional overview
-
-- **Filtered View & Download**
-  - Company, category, and sentiment filters
-  - Downloadable filtered dataset (synthetic data)
+  - Positive / Negative sentiment ratio
+- 🔍 Company & category-level filtering
 
 ---
 
-## 🔐 Data Privacy (KVKK Note)
+## 🧠 Analytics Concepts Demonstrated
 
-This repository does **not** contain any real company or user data.
+- Rating aggregation (1–5 scale)
+- Category-based performance comparison
+- Sentiment labeling (Positive / Neutral / Negative)
+- Insight-driven dashboard design
+- Privacy-aware analytics development
 
-All data used in this project is **synthetic (dummy) data**, created only to:
-- mimic real-world schemas
-- demonstrate analytics and visualization logic
-- ensure full KVKK compliance
+---
+
+## 🔐 Data & Privacy Notice
+
+This project uses **synthetic (dummy) data only**.
+
+- No real company names
+- No real employee reviews
+- No personal or sensitive information
+
+The dataset is artificially generated to simulate realistic analytics scenarios while ensuring full privacy compliance.
 
 ---
 
 ## 🛠 Tech Stack
 
-- Python
-- Streamlit
-- Pandas
-- Plotly
+- **Python**
+- **Pandas**
+- **Streamlit**
+- **Plotly**
+- (Optional) SQL-compatible design for real-world adaptation
 
 ---
 
-## 🚀 Run Locally
+## 🚀 How to Run Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+##  📌 Use Case Examples
+
+This demo illustrates how such dashboards could support:
+
+Companies monitoring employee experience trends
+
+HR teams identifying strengths and risk areas
+
+Data analysts translating feedback into insights
+
+Product teams validating analytics concepts safely
+
+##  👋 About Me
+
+I am a data analyst in transition, building hands-on projects that connect
+analytics, storytelling, and real business value.
+
+This repository is part of my learning and portfolio journey.
+
+📬 Feel free to explore, fork, or reach out.
