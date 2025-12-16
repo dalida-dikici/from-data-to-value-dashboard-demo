@@ -69,6 +69,7 @@ The dataset is artificially generated to simulate realistic analytics scenarios 
 ## 🚀 How to Run Locally
 
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ---
@@ -95,5 +96,6 @@ analytics, storytelling, and real business value.
 This repository is part of my learning and portfolio journey.
 
 📬 Feel free to explore, fork, or reach out.
+
 
 
