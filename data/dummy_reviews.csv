@@ -1,0 +1,61 @@
+ReviewId,Company,Category,Rating,SentimentLabel,Comment,Date
+1,Alpha,Career,5,Positive,supportive team. okay overall.,2025-11-22
+2,Alpha,Workload,2,Negative,unfair policy. mixed feelings.,2025-12-01
+3,Zeta,Management,3,Positive,fair process. okay overall.,2025-10-29
+4,Epsilon,Workload,5,Positive,good culture. standard benefits.,2025-12-09
+5,Zeta,Career,4,Neutral,okay overall.,2025-11-04
+6,Alpha,Benefits,2,Negative,micromanagement. varies by project.,2025-11-03
+7,Gamma,Management,5,Positive,supportive team. standard benefits.,2025-09-18
+8,Gamma,Benefits,4,Positive,"supportive team. some good, some bad.",2025-09-12
+9,Beta,Management,3,Neutral,varies by project.,2025-10-10
+10,Epsilon,Benefits,2,Negative,limited growth. depends on team.,2025-11-09
+11,Epsilon,Career,1,Negative,unfair policy. average experience.,2025-11-18
+12,Epsilon,Workload,4,Positive,great learning. nothing special.,2025-09-13
+13,Epsilon,Workload,2,Negative,"unclear expectations. some good, some bad.",2025-10-17
+14,Delta,Salary,5,Positive,great learning. okay overall.,2025-10-21
+15,Zeta,Workload,2,Negative,unclear expectations. mixed feelings.,2025-12-06
+16,Delta,Career,4,Positive,flexible schedule. standard benefits.,2025-11-21
+17,Beta,Management,1,Negative,micromanagement. depends on team.,2025-09-05
+18,Beta,Benefits,3,Neutral,average experience.,2025-10-17
+19,Epsilon,Benefits,5,Positive,clear goals. average experience.,2025-11-26
+20,Gamma,Salary,5,Positive,"clear goals. some good, some bad.",2025-09-21
+21,Alpha,Benefits,5,Positive,"helpful manager. some good, some bad.",2025-10-24
+22,Alpha,Management,5,Positive,helpful manager. average experience.,2025-08-23
+23,Alpha,Management,3,Negative,"low salary. some good, some bad.",2025-09-24
+24,Gamma,Culture,2,Negative,poor communication. okay overall.,2025-09-13
+25,Gamma,Career,3,Positive,flexible schedule. varies by project.,2025-10-23
+26,Epsilon,Culture,5,Positive,helpful manager. varies by project.,2025-10-22
+27,Zeta,Salary,2,Negative,micromanagement. average experience.,2025-10-02
+28,Alpha,Workload,3,Neutral,nothing special.,2025-10-28
+29,Epsilon,Salary,3,Neutral,okay overall.,2025-11-29
+30,Epsilon,Salary,3,Neutral,average experience.,2025-08-27
+31,Zeta,Workload,5,Positive,flexible schedule. depends on team.,2025-11-28
+32,Zeta,Management,1,Negative,limited growth. average experience.,2025-10-19
+33,Epsilon,Management,2,Negative,"unclear expectations. some good, some bad.",2025-09-11
+34,Beta,Benefits,3,Neutral,average experience.,2025-11-12
+35,Alpha,Management,1,Negative,micromanagement. average experience.,2025-10-11
+36,Beta,Salary,3,Neutral,varies by project.,2025-09-28
+37,Epsilon,Career,1,Negative,unclear expectations. standard benefits.,2025-08-21
+38,Beta,Culture,3,Neutral,depends on team.,2025-11-09
+39,Epsilon,Management,3,Positive,fair process. okay overall.,2025-11-12
+40,Delta,Workload,3,Positive,great learning. varies by project.,2025-10-14
+41,Alpha,Culture,3,Negative,limited growth. depends on team.,2025-09-18
+42,Zeta,Benefits,2,Negative,limited growth. average experience.,2025-12-14
+43,Epsilon,Management,4,Positive,clear goals. okay overall.,2025-09-18
+44,Gamma,Culture,1,Negative,low salary. depends on team.,2025-12-08
+45,Epsilon,Benefits,5,Positive,great learning. okay overall.,2025-09-03
+46,Alpha,Culture,5,Positive,flexible schedule. standard benefits.,2025-10-18
+47,Delta,Management,4,Positive,great learning. average experience.,2025-12-01
+48,Alpha,Career,4,Positive,nice environment. okay overall.,2025-09-16
+49,Delta,Management,2,Negative,high workload. depends on team.,2025-09-19
+50,Epsilon,Salary,3,Positive,"supportive team. some good, some bad.",2025-08-22
+51,Beta,Salary,2,Neutral,"some good, some bad.",2025-10-15
+52,Beta,Benefits,5,Positive,nice environment. varies by project.,2025-10-01
+53,Zeta,Salary,4,Positive,supportive team. standard benefits.,2025-11-27
+54,Delta,Culture,2,Negative,unfair policy. okay overall.,2025-09-13
+55,Zeta,Salary,5,Positive,flexible schedule. nothing special.,2025-10-22
+56,Beta,Management,2,Neutral,mixed feelings.,2025-09-17
+57,Delta,Culture,4,Positive,good culture. depends on team.,2025-09-29
+58,Zeta,Benefits,3,Neutral,average experience.,2025-11-18
+59,Zeta,Career,1,Negative,unfair policy. depends on team.,2025-10-20
+60,Delta,Management,1,Negative,high workload. standard benefits.,2025-11-29
