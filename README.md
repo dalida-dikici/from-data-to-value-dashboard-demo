@@ -68,11 +68,12 @@ The dataset is artificially generated to simulate realistic analytics scenarios 
 
 ## 🚀 How to Run Locally
 
-```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-##  📌 Use Case Examples
+---
+
+## 📌 Use Case Examples
 
 This demo illustrates how such dashboards could support:
 
@@ -84,7 +85,9 @@ Data analysts translating feedback into insights
 
 Product teams validating analytics concepts safely
 
-##  👋 About Me
+---
+
+## 👋 About Me
 
 I am a data analyst in transition, building hands-on projects that connect
 analytics, storytelling, and real business value.
@@ -92,3 +95,4 @@ analytics, storytelling, and real business value.
 This repository is part of my learning and portfolio journey.
 
 📬 Feel free to explore, fork, or reach out.
+
